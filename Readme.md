@@ -1,1 +1,1 @@
-Sample readme.md
+This repository contains Oracle files and scripts.
